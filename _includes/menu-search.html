@@ -22,7 +22,7 @@
     <ul>
       <li><span>1</span></li>
       <li><span> {{page.url}}</span></li>
-      <li><span>⌘ blogspace λ </span></li>
+      <li><span>⌘ blogspace </span></li>
       <li><span>* Menu</span></li>
     </ul>
 
@@ -37,11 +37,11 @@
     <ul>
       {% assign counter=1 %}
       {% for link in site.links %}
-      {% if link.external %}
+<!--       {% if link.external %}
         <li>
           <a href="{{ link.url }}">{{ link.title }}</a>
         </li>
-      {% else %}
+      {% else %} -->
         <li>
           <span class="counter-menu">{{counter}}</span>
           <svg viewBox="0 0 50 50" class="icon-arrow-menu"><use xlink:href="#icon-right-arrow"></use></svg>
