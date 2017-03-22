@@ -1,7 +1,7 @@
 # Site settings
 title: Sunny Long
 description: "Articles and Projects"
-baseurl: "https://sunnylongx.github.io/" # for test: remove string '/space-jekyll-templa' to ''
+baseurl: "" # for test: remove string '/space-jekyll-templa' to ''
 url: "https://sunnylongx.github.io/" # for test: remove string 'http://victorvoid.github.io' to '' but in production: 'https://yourusername.githu.io'
 # User settings
 username: Sunny Long
