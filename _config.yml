@@ -39,8 +39,8 @@ links:
     url: /about
 # projects in header index
 projects:
-  # - name: asciilang
-  #   url: https://github.com/victorvoid/asciilang
+  - name: Just Baguette
+    url: /JustBaguette
   # - name: vim-frontend
   #   url: https://github.com/victorvoid/vim-frontend
   # - name: generator-capybara
