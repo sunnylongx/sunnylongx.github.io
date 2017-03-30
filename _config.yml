@@ -41,8 +41,8 @@ links:
 projects:
   - name: Just Baguette
     url: /JustBaguette
-  # - name: vim-frontend
-  #   url: https://github.com/victorvoid/vim-frontend
+  - name: SnapShop
+    url: /SnapShop
   # - name: generator-capybara
   #   url: https://github.com/victorvoid/generator-capybara 
 # exclude my node related stuff
