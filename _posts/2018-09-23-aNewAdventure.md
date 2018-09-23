@@ -28,7 +28,7 @@ So - what's next?
 
 I am returning to startup world - specifically teaming up with two good friends and working on a new project. As if that is not in itself enough of an adventure, we will be starting this project on international soil - Denmark!
 
-<img src="/assets/img/newAdventure/helloCPH.JPG" width="400px" alt="Landing In Copenhagen">
+<img src="/assets/img/newAdventure/helloCPH.JPG" width="400px" rotate="90" alt="Landing In Copenhagen">
 
 We will be here for the next couple months working on our project.
 
