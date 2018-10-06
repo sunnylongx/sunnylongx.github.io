@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "09.23.2018 First Week"
+title:  "09.30.2018 First Week"
 image: ''
 date:   2018-09-30 00:00:01
 tags:
