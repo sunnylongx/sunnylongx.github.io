@@ -30,7 +30,7 @@ One realization early on was that our business (from the sales side) is not all 
 
 Now two weeks into Denmark (though it feels much longer), I feel obliged to post a few photos and updates around how we're doing and fitting in. So far it has been a blast. We've been a couple times to a fantastic boardgame cafe (the Bastard Cafe), seen the viking museum, and walked through numerous neighborhoods (Frederiksberg, City Center, etc.). I've started feeling quite like a local: got my metro card (similar to our Clipper card), ridden bikes to work in the city, and cook dinner with my roommates most nights of the week! 
 
-A few photos for those interested (and since I'm quite absent on the usual channels of social media):
+A few photos for those interested (and since I'm quite absent on the usual channels of social media). The first three are views from Islands Brygge. The fourth is a view from inside the Danish royal library. The last one is Roskilde Church (where the Viking museum is).
 
 <img src="/assets/img/startingUp/ib1.JPG" width="600px" alt="view from Islands Brygge">
 
@@ -38,7 +38,7 @@ A few photos for those interested (and since I'm quite absent on the usual chann
 
 <img src="/assets/img/startingUp/ib3.JPG" width="600px" alt="view from Islands Brygge">
 
-<img src="/assets/img/startingUp/library.JPG" width="600px" alt="Royal library" style="transform: rotate(270deg);padding: 25px;">
+<img src="/assets/img/startingUp/library.JPG" width="600px" alt="Royal library" style="transform: rotate(270deg);margin-top: 11rem; margin-bottom: 14rem;">
 
 <img src="/assets/img/startingUp/church.JPG" width="600px" alt="Roskilde Church" style="transform: rotate(90deg);padding: 25px;">
 
