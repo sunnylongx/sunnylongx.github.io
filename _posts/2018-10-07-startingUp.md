@@ -32,14 +32,14 @@ Now two weeks into Denmark (though it feels much longer), I feel obliged to post
 
 A few photos for those interested (and since I'm quite absent on the usual channels of social media):
 
-<img src="/assets/img/startingUp/ib1.JPG" width="400px" alt="view from Islands Brygge">
+<img src="/assets/img/startingUp/ib1.JPG" width="600px" alt="view from Islands Brygge">
 
-<img src="/assets/img/startingUp/ib2.JPG" width="400px" alt="view from Islands Brygge">
+<img src="/assets/img/startingUp/ib2.JPG" width="600px" alt="view from Islands Brygge">
 
-<img src="/assets/img/startingUp/ib3.JPG" width="400px" alt="view from Islands Brygge">
+<img src="/assets/img/startingUp/ib3.JPG" width="600px" alt="view from Islands Brygge">
 
-<img src="/assets/img/startingUp/library.JPG" width="400px" alt="Royal library">
+<img src="/assets/img/startingUp/library.JPG" width="600px" alt="Royal library" style="transform: rotate(270deg);padding: 25px;">
 
-<img src="/assets/img/startingUp/church.JPG" width="400px" alt="Roskilde Church">
+<img src="/assets/img/startingUp/church.JPG" width="600px" alt="Roskilde Church" style="transform: rotate(90deg);padding: 25px;">
 
 
