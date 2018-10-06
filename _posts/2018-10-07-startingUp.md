@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "09.23.2018 Starting Up"
+title:  "10.07.2018 Starting Up"
 image: ''
 date:   2018-10-07 00:00:01
 tags:
