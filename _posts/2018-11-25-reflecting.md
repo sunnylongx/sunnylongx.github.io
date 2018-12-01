@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "11.25.2018 Always Day 1"
+title:  "11.25.2018 Reflecting"
 image: ''
 date:   2018-11-25 00:00:01
 tags:
